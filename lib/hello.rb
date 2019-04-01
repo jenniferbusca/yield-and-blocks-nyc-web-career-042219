@@ -6,3 +6,5 @@ def hello_t(array)
     i = i + 1
   end
 end
+
+def hello_t(["Tim", "Tom", "Jim"])
